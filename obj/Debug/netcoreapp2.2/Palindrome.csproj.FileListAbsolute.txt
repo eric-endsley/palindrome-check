@@ -1,0 +1,11 @@
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\obj\Debug\netcoreapp2.2\Palindrome.csprojAssemblyReference.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\obj\Debug\netcoreapp2.2\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\obj\Debug\netcoreapp2.2\Palindrome.AssemblyInfoInputs.cache
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\obj\Debug\netcoreapp2.2\Palindrome.AssemblyInfo.cs
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\bin\Debug\netcoreapp2.2\Palindrome.deps.json
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\bin\Debug\netcoreapp2.2\Palindrome.runtimeconfig.json
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\bin\Debug\netcoreapp2.2\Palindrome.runtimeconfig.dev.json
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\bin\Debug\netcoreapp2.2\Palindrome.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\bin\Debug\netcoreapp2.2\Palindrome.pdb
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\obj\Debug\netcoreapp2.2\Palindrome.dll
+C:\Users\Eric Endsley\OneDrive\Desktop\palindrome-check\obj\Debug\netcoreapp2.2\Palindrome.pdb
